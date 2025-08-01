@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;  
+    background-image: url("https://images.pexels.com/photos/414660/pexels-photo-414660.jpeg?cs=srgb&dl=pexels-pixabay-414660.jpg&fm=jpg");
+    background-size: cover;         
+    background-repeat: no-repeat;   
+    background-attachment: fixed;    
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: blue;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: green;
+    color: white;
+    border: none;
+    margin-top: 20px;
+    font-size: 16px;
+    cursor: pointer;               
+    border-radius: 5px;           
+}
